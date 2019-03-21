@@ -1,0 +1,13 @@
+{
+  "name": "nextjs-nhl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "sequelize": "^5.1.0"
+  }
+}
